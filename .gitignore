@@ -6,8 +6,10 @@
 # User-specific files
 *.rsuser
 *.suo
+*.sln
 *.user
 *.userosscache
+*.vcxproj
 *.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
@@ -69,10 +71,13 @@ StyleCopReport.xml
 *.iobj
 *.pch
 *.pdb
+*.vcxproj
+*.vcxproj.filters
 *.ipdb
 *.pgc
 *.pgd
 *.rsp
+*.sln
 *.sbr
 *.tlb
 *.tli
