@@ -1,6 +1,9 @@
 #pragma once
 
+#include <iostream>
 #include <cstdarg>
+
+using namespace std;
 
 /*
 	-------------------------------------
